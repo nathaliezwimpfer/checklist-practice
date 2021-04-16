@@ -57,7 +57,8 @@ li:hover {
 
   .checkmark {
     font-family: sans-serif;
-    margin-right: 10px;
+    margin-right: 0px;
+    display: none;
   }
 
 .left-elements {
