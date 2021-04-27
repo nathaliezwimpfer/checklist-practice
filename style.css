@@ -64,6 +64,7 @@ li:hover {
 
 .left-elements {
   padding: 10px 15px;
+  display: flex;
 }
 
 .closing-x {
